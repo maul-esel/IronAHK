@@ -208,7 +208,6 @@
     <Compile Include="Linux\XConnection.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
